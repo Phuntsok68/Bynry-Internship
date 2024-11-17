@@ -1,0 +1,33 @@
+.profile-card {
+  width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-photo {
+  margin-left: 15px;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.profile-info {
+  flex: 1;
+  font-size: 20px;
+}
+
+.view-map-btn {
+  font-size: 18px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
